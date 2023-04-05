@@ -1,6 +1,4 @@
 ### Hi there:blush:
-![software-software-development](https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif)
-
 
 <img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="400" height="250">
 <header>
