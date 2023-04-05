@@ -1,6 +1,8 @@
 ## Software Developer
 
-<p> Hi there I'm Omer. :blush: sdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+<p> Hi there I'm Omer. :blush:</p>
+<p> Programmers are constantly doing overly complex tasks for future memories. Forget about the future. Today's program.</p>
+
 
 
 
