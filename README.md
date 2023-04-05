@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="500" height="400">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
 
 <h3> 🤝🏻 &nbsp;Reach out to me </h3> 
 
@@ -20,7 +20,7 @@
 <a href="https://wa.me/905393050223"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
+
 
 
 
