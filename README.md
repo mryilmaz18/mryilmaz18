@@ -1,15 +1,12 @@
 # Software Developer
 
 <p> Hi there I'm Omer. :blush:</p>
-<p> Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present. </p>
-<p></p>
-
 
 <img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="500" height="400">
 
 
 
-<h3></h3> 
+<h3>Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present.</h3> 
 <h3>It is better to expect a productive programmer to be employable than to expect the first programmer found to be productive.</h3> 
 <h3>Solve the matter first. Then write the code.</h3> 
 <img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
