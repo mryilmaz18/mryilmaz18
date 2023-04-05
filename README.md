@@ -1,4 +1,4 @@
-## Software Developer
+# Software Developer
 
 <p> Hi there I'm Omer. :blush:</p>
 <p> Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present. </p>
