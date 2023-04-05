@@ -1,8 +1,8 @@
 ## Software Developer
 
 <p> Hi there I'm Omer. :blush:</p>
-<p> Programmers are constantly doing overly complex tasks for future memories. Forget about the future. Today's program. The best performance improvement is to switch to idle work.</p>
-
+<p> Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present. </p>
+<p>It is better to expect a productive programmer to be employable than to expect the first programmer found to be productive.</p>
 
 
 
