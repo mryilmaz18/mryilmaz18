@@ -1,6 +1,7 @@
 ### Hi there:blush:
 
-<img src="https://giphy.com/embed/HK1hAnDfVDWwNDFSUx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cruelsummer-ff-freeform-cruel-summer-HK1hAnDfVDWwNDFSUx">via GIPHY" align="right" width="400" height="250">
+
+<img src="https://giphy.com/gifs/cruelsummer-ff-freeform-cruel-summer-HK1hAnDfVDWwNDFSUx" align="right" width="400" height="250">
 <header>
       <h1>Hi there 👋</h1>
       <img align="right" width="450"  
