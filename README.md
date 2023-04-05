@@ -25,7 +25,7 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
 </details>
 
 <details>
