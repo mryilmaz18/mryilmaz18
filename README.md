@@ -1,7 +1,7 @@
 ## Software Developer
 
 <p> Hi there I'm Omer. :blush:</p>
-<p> Programmers are constantly doing overly complex tasks for future memories. Forget about the future. Today's program.</p>
+<p> Programmers are constantly doing overly complex tasks for future memories. Forget about the future. Today's program. The best performance improvement is to switch to idle work.</p>
 
 
 
