@@ -5,9 +5,7 @@
          alt=" "
       />
       <h3>Software Developer</h3>
-      <p>
-      I am Omer, I love web applications and design development, I serve in this field. I share some of my projects on my Github profile.
-      </p>
+##### Hi there, I'm Didem. :blush:
 </header>
 
 
