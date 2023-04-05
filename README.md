@@ -11,8 +11,17 @@
       />
       <h3>Software Developer</h3>
       <p>
-      I am Yusuf, I love web applications and design development, I serve in this field. I share some of my projects on my Github profile.
+      I am Omer, I love web applications and design development, I serve in this field. I share some of my projects on my Github profile.
       </p>
 </header>
 
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p align="center">
+<br>
+<a href="http://linkedin.com/in/ömer-yılmaz-416347259/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/mr_yilmaz18/"><img src="https://img.shields.io/badge/İnstagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram" /></a>&nbsp;
+<a href="https://wa.me/905393050223"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
