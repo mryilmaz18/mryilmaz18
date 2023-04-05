@@ -7,7 +7,7 @@
 
         src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489"       
         alt=""
-      />
+      <p/>
       <h3>Software Developer</h3>
       <p>
       I am Omer, I love web applications and design development, I serve in this field. I share some of my projects on my Github profile.
