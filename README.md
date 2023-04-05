@@ -23,6 +23,14 @@
 <a href="https://wa.me/905393050223"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
+</details>
 
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
+</details>
 
 
