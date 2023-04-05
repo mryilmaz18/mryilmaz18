@@ -1,6 +1,6 @@
 ### Hi there:blush:
 
-
+<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
 <header>
       <h1>Hi there 👋</h1>
       <img align="right" width="450"  
