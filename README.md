@@ -9,11 +9,10 @@
 <img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="500" height="400">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
-<h3>   sdadasdasd        </h3> 
-<h3>  sdadsada       </h3> 
-<h3>   dsadada     </h3> 
-<h3> asdasda </h3> <h3> sdasdad </h3> 
-<h3> sadsada </h3> <h3>  sdadsa</h3> <h3>  </h3> 
+<h3>                         </h3> 
+<h3>                     </h3> 
+<h3>                      </h3> 
+
 <h3> 🤝🏻 &nbsp;Reach out to me </h3> 
 
 <p align="center">
