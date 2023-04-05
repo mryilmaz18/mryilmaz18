@@ -1,7 +1,7 @@
 
 ### Hi there:blush:
 
-<img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="700" height="300">
          alt=" "
       />
       <h3>Software Developer</h3>
