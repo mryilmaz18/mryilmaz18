@@ -11,7 +11,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
 <h3>           </h3> 
 <h3>         </h3> 
-<h3>              </h3> 
+<h3>        </h3> 
+<h3>  </h3> <h3>  </h3> 
+<h3>  </h3> <h3>  </h3> <h3>  </h3> 
 <h3> 🤝🏻 &nbsp;Reach out to me </h3> 
 
 <p align="center">
