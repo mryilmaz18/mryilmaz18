@@ -4,7 +4,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/113208047/230258274-8181c067-5172-4edd-a687-f70e751ddb05.gif" align="right" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/113208047/230258274-8181c067-5172-4edd-a687-f70e751ddb05.gif" align="left" width="500" height="300">
 
 <h3>Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present.</h3> 
 <h3>It is better to expect a productive programmer to be employable than to expect the first programmer found to be productive.</h3> 
