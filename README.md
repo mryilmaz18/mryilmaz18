@@ -3,8 +3,8 @@
 <p> Hi there I'm Omer. I graduated from Aksaray University, Department of Management Information Systems.I am developing myself in the fields of back-end and coding.I am open to learning and follow new technologies closely.I am currently actively learning C#, ASP.Net, MVC, .NET Core. I developed applications according to my ideas.Even though I have added a lot to myself since the first time I started the software, I am also aware that there is a lot that I do not know.I'm trying to learn what I don't know by researching.Applying what I have learned is my biggest passion right now. :blush:</p>
 
 
-<img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/113208047/230258274-8181c067-5172-4edd-a687-f70e751ddb05.gif" align="left" width="500" height="300">
+
+<img src="https://user-images.githubusercontent.com/113208047/230258274-8181c067-5172-4edd-a687-f70e751ddb05.gif" align="left" width="500" height="600">
 
 <h3>Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present.</h3> 
 <h3>It is better to expect a productive programmer to be employable than to expect the first programmer found to be productive.</h3> 
