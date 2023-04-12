@@ -1,6 +1,6 @@
 # Software Developer
 
-<p> Hi there I'm Omer. I graduated from Aksaray University, Department of Management Information Systems.I am developing myself in the fields of back-end and coding.I am open to learning and follow new technologies closely.I am currently actively learning C#, ASP.Net, MVC, .NET Core. I developed applications according to my ideas.Even though I have added a lot to myself since the first time I started the software, I am also aware that there is a lot that I do not know.I'm trying to learn what I don't know by researching.Applying what I have learned is my biggest passion right now. :blush:</p>
+<p> Hi there I'm Omer. I graduated from Aksaray University, Department of Management Information Systems.I am developing myself in the fields of back-end and coding.I am open to learning and follow new technologies closely.I am currently actively using C#, ASP.Net, MVC, .NET Core.. I developed applications according to my ideas.Even though I have added a lot to myself since the first time I started the software, I am also aware that there is a lot that I do not know.I'm trying to learn what I don't know by researching.Applying what I have learned is my biggest passion right now. :blush:</p>
 
 <img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="400" height="300">
 
