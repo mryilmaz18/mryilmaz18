@@ -9,7 +9,7 @@
 <h3>It is better to expect a productive programmer to be employable than to expect the first programmer found to be productive.</h3> 
 <h3>The software does what you tell it to do, not what you want it to do.</h3>
 <h3>Solve the matter first. Then write the code.</h3> 
-<img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryilmaz18&show_icons=true&locale=en&layout=compact" alt="mryilmaz18" />
+<img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
 <h3> 🤝🏻 &nbsp;Reach out to me </h3> 
 
 <p align="center">
