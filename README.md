@@ -3,15 +3,14 @@
 <p> Hi there I'm Omer. I graduated from Aksaray University, Department of Management Information Systems.I am developing myself in the fields of back-end and coding.I am open to learning and follow new technologies closely.I am currently actively using C#, ASP.Net, MVC, .NET Core. I developed applications according to my ideas.Even though I have added a lot to myself since the first time I started the software, I am also aware that there is a lot that I do not know.I'm trying to learn what I don't know by researching.Applying what I have learned is my biggest passion right now. :blush:</p>
 
 <img src="https://user-images.githubusercontent.com/113208047/230200885-91f3bc80-3f00-469a-914e-a499bbb72d1d.gif" align="right" width="400" height="300">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryilmaz18&show_icons=true&locale=en&layout=compact" alt="mryilmaz18" /></p>
 
 <h3>Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present.</h3> 
 <h3>It is better to expect a productive programmer to be employable than to expect the first programmer found to be productive.</h3> 
 <h3>The software does what you tell it to do, not what you want it to do.</h3>
 <h3>Solve the matter first. Then write the code.</h3> 
 <img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryilmaz18&show_icons=true&locale=en&layout=compact" alt="mryilmaz18" /></p>
 <h3> 🤝🏻 &nbsp;Reach out to me </h3> 
-
 <p align="center">
 <br>
 <a href="http://linkedin.com/in/ömer-yılmaz-416347259/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
