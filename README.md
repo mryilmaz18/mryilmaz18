@@ -9,7 +9,7 @@
 <h3>It is better to expect a productive programmer to be employable than to expect the first programmer found to be productive.</h3> 
 <h3>The software does what you tell it to do, not what you want it to do.</h3>
 <h3>Solve the matter first. Then write the code.</h3> 
-<img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=mryilmaz18&theme=radical" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryilmaz18&show_icons=true&locale=en&layout=compact" alt="mryilmaz18" />
 <h3> 🤝🏻 &nbsp;Reach out to me </h3> 
 
 <p align="center">
@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/mr_yilmaz18/"><img src="https://img.shields.io/badge/İnstagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram" /></a>&nbsp;
 <a href="https://wa.me/905393050223"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryilmaz18&show_icons=true&locale=en&layout=compact" alt="mryilmaz18" /></p>
+
 
 
 
