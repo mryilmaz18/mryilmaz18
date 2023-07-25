@@ -3,7 +3,7 @@
 <p> Hi there I'm Omer. I graduated from Aksaray University, Department of Management Information Systems.I am developing myself in the fields of back-end and coding.I am open to learning and follow new technologies closely.I am currently actively using C#, ASP.Net, MVC, .NET Core. I developed applications according to my ideas.Even though I have added a lot to myself since the first time I started the software, I am also aware that there is a lot that I do not know.I'm trying to learn what I don't know by researching.Applying what I have learned is my biggest passion right now. :blush:</p>
 
 
-<img src="https://i.hizliresim.com/o01fxdq.jpg" align="right" width="400" height="300">
+<img src="https://i.hizliresim.com/df6tca1.gif" align="right" width="400" height="300">
 
 
 <h3>Programmers constantly overcomplicate things because they think about the future. Forget about the future. Focus on the present.</h3> 
